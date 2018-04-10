@@ -1,2 +1,10 @@
-sai mohan
+sai mohan 
+
+DEVOPS INVOLVES IN :
+1)  Continuous Devlopment.
+2)  Continuous Testing.
+3)  Continuous Integration.
+4)  Continuous Deplooyment.
+
+
 

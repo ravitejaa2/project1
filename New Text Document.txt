@@ -1,1 +1,2 @@
-liufukyyuf.fyfk.hfiyiy
+Git merge will combine multiple sequences of commits into one unified history. In the most frequent use cases, git merge is used to combine two branches.
+
